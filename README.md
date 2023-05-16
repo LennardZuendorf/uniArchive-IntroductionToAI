@@ -1,7 +1,5 @@
 <h1>machina</h1>
-<h4>This is a collection of training and trial jupyter notesbooks with common machine learning problems/solutions.</h4>
-
-<h4>Now a spring backend build in java and on supabase that I might use as part of another project.</h4>
+<h4>This is a collection of training and trial jupyter notebooks with common machine learning problems/solutions.</h4>
 
 <h2>🏗️ Tech Stack:</h2>
 
