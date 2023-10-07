@@ -16,4 +16,6 @@
 
 **Author:** [@LennardZuendorf](https://github.com/LennardZuendorf)
 
-- This code was partly produced as a solution to tasks I had to do at UiO's Computer Science program. I abstracted as much as possible to not enable outright cheating in the class. (But by now, ChatGPT would handle all of these tasks perfectly fine anyways...)
+- This code was partly produced as a solution to tasks I had to do at UiO's Computer Science Program. I abstracted as much as possible to not enable outright cheating in the class. But by now, ChatGPT would handle all of these tasks perfectly fine anyways and I doubt these tasks are still used.
+
+**Credits:** Credit for these tasks goes to the UiO's Computer Science Program. Please refer to the University of Oslo and me when quoting this code
